@@ -14,14 +14,16 @@ Click the "Build" tab.
 
 In the left menu, under Interaction Model, there is a section called "JSON editor". Click on it.
 
-Delete all of the text in the editor. Copy all of the contents of the file at https://github.com/dmonego/handwashing-songs/blob/master/skill-package/en-us.json
+Delete all of the text in the editor. Copy all of the contents of the file at [here](https://github.com/dmonego/handwashing-songs/blob/master/skill-package/en-us.json)
 
 Paste the contents of that file into the editor. Click "Save Model", then click "Build Model".
 
 ## Deploy the lambda
 Click the "Code" tab. 
 
-In the left menu, click on the file "index.js". Delete all contents of the file, and replace with the contents of the file at https://github.com/dmonego/handwashing-songs/blob/master/skill-lambda/index.js then click "Save".
+In the left menu, click on the file "index.js". Delete all contents of the file, and replace with the contents of the file [here](https://github.com/dmonego/handwashing-songs/blob/master/skill-lambda/index.js) then click "Save".
+
+Next, select the file package.json from the left menu. Replace it's contents with the file [here](https://github.com/massmutual/mm-concierge/blob/dev/alexa/lambda/package.json) and save it.
 
 After updating the code, click "Deploy".
 
