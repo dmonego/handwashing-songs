@@ -2,16 +2,17 @@
 // Please visit https://alexa.design/cookbook for additional examples on implementing slots, dialog management,
 // session persistence, api calls, and more.
 const Alexa = require('ask-sdk-core');
+const axios = require('axios');
+
 
 const LaunchRequestHandler = {
     canHandle(handlerInput) {
         return Alexa.getRequestType(handlerInput.requestEnvelope) === 'LaunchRequest';
     },
-    handle(handlerInput) {
-        const songs = ["https://nothing-interesting-here.s3.amazonaws.com/handwashing-samples/clean-bounce-sample.mp3",
-            "https://nothing-interesting-here.s3.amazonaws.com/handwashing-samples/funk-wash-2-sample.mp3",
-            "https://nothing-interesting-here.s3.amazonaws.com/handwashing-samples/nice-n-soapy-sample.mp3"],
-            songIdx = Math.floor(Math.random() * songs.length),
+    handle: async function (handlerInput) {
+        const songsRaw = await axios.get("https://r1wp5pclc9.execute-api.us-east-1.amazonaws.com/songs/list"),
+            songs = songsRaw.data,
+            songIdx = Math.floor(Math.random() * songs.length), 
             songUrl = songs[songIdx];
         const speakOutput = `<audio src="${songUrl}" />`;
         return handlerInput.responseBuilder
