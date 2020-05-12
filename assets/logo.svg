@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/dan/code/js/handwashing-songs/assets/logo.svg.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask954">
+      <rect
+         y="6.7143025"
+         x="36.663692"
+         height="125.66663"
+         width="142.49704"
+         id="rect956"
+         style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.66145831;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </mask>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="707.49526"
+     inkscape:cy="438.8977"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1078"
+     inkscape:window-height="963"
+     inkscape:window-x="124"
+     inkscape:window-y="77"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g931"
+       mask="url(#mask954)"
+       transform="translate(0.75595238,37.041667)">
+      <ellipse
+         ry="33.261906"
+         rx="34.017857"
+         cy="131.44643"
+         cx="44.601192"
+         id="path874"
+         style="fill:#c3e1fa;fill-opacity:1;stroke:#060681;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="32.127975"
+         rx="39.6875"
+         cy="115.94939"
+         cx="82.776779"
+         id="path876"
+         style="fill:#c3e1fa;fill-opacity:1;stroke:#060681;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="36.663689"
+         rx="37.797619"
+         cy="140.89584"
+         cx="130.77975"
+         id="path878"
+         style="fill:#d9dfe4;fill-opacity:1;stroke:#060681;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="34.017857"
+         rx="44.979168"
+         cy="156.39285"
+         cx="156.86011"
+         id="path882"
+         style="fill:#c3e1fa;fill-opacity:1;stroke:#060681;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="32.505951"
+         rx="36.663689"
+         cy="118.59523"
+         cx="123.59821"
+         id="path884"
+         style="fill:#c3e1fa;fill-opacity:1;stroke:#060681;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="27.59226"
+         rx="15.119047"
+         cy="138.62798"
+         cx="159.50595"
+         id="path886"
+         style="fill:#c3e1fa;fill-opacity:1;stroke:#060681;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="27.592262"
+         rx="15.119047"
+         cy="127.66667"
+         cx="65.011902"
+         id="path886-5"
+         style="fill:#c3e1fa;fill-opacity:1;stroke:#060681;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="49.136902"
+         rx="78.241066"
+         cy="151.1012"
+         cx="102.43156"
+         id="path880"
+         style="fill:#c3e1fa;fill-opacity:1;stroke:none;stroke-width:1.51422048;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path10"
+         d="M 144.76488,22.589098 86.17879,40.732175 v 12.095387 57.252828 a 17.008928,10.205358 0 0 0 -11.71763,-2.82463 17.008928,10.205358 0 0 0 -17.00878,10.20558 17.008928,10.205358 0 0 0 17.00878,10.20558 17.008928,10.205358 0 0 0 17.0093,-10.20558 17.008928,10.205358 0 0 0 -0.12609,-1.13378 h 0.12609 V 51.188902 l 48.00276,-14.86576 v 65.063728 a 17.008928,10.205358 0 0 0 -11.71712,-2.824119 17.008928,10.205358 0 0 0 -17.0093,10.205059 17.008928,10.205358 0 0 0 17.0093,10.20558 17.008928,10.205358 0 0 0 16.80001,-8.69352 h 0.20877 v -1.51206 -74.083327 z"
+         style="fill:#d9dfe4;fill-opacity:1;stroke:#060681;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
